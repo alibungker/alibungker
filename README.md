@@ -74,10 +74,14 @@ Based in **Aceh, Indonesia** · Interested in applied research and engineering c
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alibungker&show_icons=true&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=CBD5E1&icon_color=818CF8&ring_color=67E8F9" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibungker&layout=compact&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=CBD5E1" alt="Most used languages" />
+[![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Falibungker&query=%24.public_repos&label=public%20repositories&color=0B1220&labelColor=0B1220&style=for-the-badge&logo=github)](https://github.com/alibungker?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/alibungker?label=followers&style=for-the-badge&color=0B1220&labelColor=0B1220&logo=github)](https://github.com/alibungker?tab=followers)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alibungker&hide_border=true&background=0B1220&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" width="70%" />
+### Contribution graph
+
+<img src="https://ghchart.rshah.org/67E8F9/alibungker" alt="GitHub contribution graph for alibungker" width="100%" />
+
+<sub>Contribution chart is provided by ghchart. If the image is temporarily unavailable, view the native <a href="https://github.com/alibungker">GitHub profile and contribution calendar</a>.</sub>
 
 </div>
 
